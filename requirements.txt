@@ -1,0 +1,9 @@
+# 3D Cube Stacking Optimizer - Dependencies
+# No external dependencies required - standard library only
+
+python>=3.7
+
+# Project uses only Python standard library:
+# - typing (type hints)
+# - time (performance measurement)
+# - sys (command-line arguments)
